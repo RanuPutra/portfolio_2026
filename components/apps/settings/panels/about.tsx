@@ -77,7 +77,7 @@ export function AboutPanel({ onCategorySelect }: AboutPanelProps) {
         <div className="divide-y divide-border/50">
           <div className="flex justify-between px-4 py-3">
             <span className="text-xs text-muted-foreground">Name</span>
-            <span className="text-xs">Alana&apos;s MacBook Air</span>
+            <span className="text-xs">ranForYou MacBook Air</span>
           </div>
           <div className="flex justify-between px-4 py-3">
             <span className="text-xs text-muted-foreground">Chip</span>

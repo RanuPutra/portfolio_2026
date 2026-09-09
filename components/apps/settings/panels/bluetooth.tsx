@@ -16,11 +16,11 @@ interface BluetoothDevice {
 }
 
 const myDevicesDesktop: BluetoothDevice[] = [
-  { name: "Alana's Magic Keyboard", connected: true, battery: 91, type: "keyboard" },
-  { name: "Alana's Magic Trackpad", connected: true, battery: 20, type: "trackpad" },
+  { name: "Ranu's Magic Keyboard", connected: true, battery: 91, type: "keyboard" },
+  { name: "Ranu's Magic Trackpad", connected: true, battery: 20, type: "trackpad" },
   { name: "Nothing Headphones", connected: false, type: "headphones" },
-  { name: "Alana's AirPods Max", connected: false, type: "airpods-max" },
-  { name: "Alana's AirPods Pro", connected: false, type: "airpods" },
+  { name: "Ranu's AirPods Max", connected: false, type: "airpods-max" },
+  { name: "Ranu's AirPods Pro", connected: false, type: "airpods" },
   { name: "Flipper Reg0l1", connected: false, type: "headphones" },
 ];
 
@@ -124,7 +124,7 @@ export function BluetoothPanel() {
         <>
           {/* Discoverable text */}
           <p className="text-xs text-muted-foreground py-4 border-b border-border/50">
-            This Mac is discoverable as &quot;Alana&apos;s MacBook Air&quot; while Bluetooth Settings is open.
+            This Mac is discoverable as &quot;ranForYou MacBook Air&quot; while Bluetooth Settings is open.
           </p>
 
           {/* My Devices section */}

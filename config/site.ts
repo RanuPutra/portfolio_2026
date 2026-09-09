@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "Ranu Putra",
-  title: "RanForYou",
-  url: "https://alanagoyal.com",
+  name: "ranu putra",
+  title: "ranu putra",
+  url: "http://localhost:3000",
 };

@@ -4,7 +4,7 @@ import { useRef, useState } from "react";
 import { Nav } from "./nav";
 import { Terminal } from "./terminal";
 
-const HOME_DIR = "/Users/alanagoyal";
+const HOME_DIR = "/Users/ranuputra";
 
 interface ITermAppProps {
   inShell?: boolean;

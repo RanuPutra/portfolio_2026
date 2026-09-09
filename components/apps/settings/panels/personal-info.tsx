@@ -9,9 +9,9 @@ interface Device {
 }
 
 const devices: Device[] = [
-  { name: "Alana's MacBook Air", model: "This MacBook Air", type: "macbook" },
-  { name: "Alana's iPhone 16 Pro", model: "iPhone 16 Pro", type: "iphone" },
-  { name: "Alana's iPad", model: "iPad Air", type: "ipad" },
+  { name: "ranForYou MacBook Air", model: "This MacBook Air", type: "macbook" },
+  { name: "ranForYou iPhone 13", model: "iPhone 13", type: "iphone" },
+  { name: "ranForYou iPad", model: "iPad Air", type: "ipad" },
   { name: "Family Room", model: "Apple TV", type: "apple-tv" },
   { name: "Entertainment Room", model: "Apple TV", type: "apple-tv" },
   { name: "Bedroom", model: "Apple TV", type: "apple-tv" },
@@ -91,7 +91,7 @@ export function PersonalInfoPanel() {
           >
             <span className="text-xs">Name</span>
             <div className="flex items-center gap-1 text-muted-foreground">
-              <span className="text-xs">Alana Goyal</span>
+              <span className="text-xs">Ranu Putra</span>
               <ChevronRight className="w-4 h-4" />
             </div>
           </a>

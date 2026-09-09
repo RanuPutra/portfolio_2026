@@ -291,13 +291,13 @@ export function Sidebar({
                   >
                     <Image
                       src="/headshot.jpg"
-                      alt="Alana Goyal"
+                      alt="Ranu Putra"
                       width={48}
                       height={48}
                       className="rounded-full"
                     />
                     <div className="text-left">
-                      <div className="font-medium text-xs">Alana Goyal</div>
+                      <div className="font-medium text-xs">Ranu Putra</div>
                       <div className="text-[10px] text-muted-foreground">Apple Account</div>
                     </div>
                   </button>

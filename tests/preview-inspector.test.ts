@@ -24,7 +24,7 @@ test("formats file sizes with compact native-style units", () => {
 test("formats image dimensions and containing folders", () => {
   assert.equal(formatPreviewDimensions(2400, 1600), "2,400 × 1,600 pixels");
   assert.equal(
-    getPreviewFileLocation("/Users/alanagoyal/Desktop/portrait.jpg"),
-    "/Users/alanagoyal/Desktop"
+    getPreviewFileLocation("/Users/ranuputra/Desktop/portrait.jpg"),
+    "/Users/ranuputra/Desktop"
   );
 });

@@ -44,7 +44,7 @@ import {
   type FinderSortKey,
 } from "@/lib/finder-sort";
 
-const USERNAME = HOME_DIR.split("/").pop() ?? "alanagoyal";
+const USERNAME = HOME_DIR.split("/").pop() ?? "ranuputra";
 
 interface FileItem {
   name: string;
